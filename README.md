@@ -1,4 +1,4 @@
 # BaremetalBird
 Baremetal Bird – Open-Source Quadcopter Platform (AVR Based From-Scratch Design)
 
-![Quadcopter](Assets/animation.gif)
+![Quadcopter](Assets/QuadcopterAnimation.gif)
